@@ -42,10 +42,10 @@ This project is a consultation booking management system. It supports user regis
 - PBI5. View Specialist Availability Schedule
 
 ### Module 4: Booking Request Creation and Validation
-- PBI1. Create Booking Request Form
-- PBI2. Capture Required Booking Information
-- PBI3. Validate Required Booking Inputs
-- PBI4. Check Slot Availability
+- PBI1. Search for Bookable Specialists
+- PBI2. Filter Bookable Specialists by Expertise and Availability
+- PBI3. View Specialist Details and Select an Available Slot
+- PBI4. Complete and Validate the Booking Request Form
 - PBI5. Prevent Double Booking and Create an Initial Booking Record
 
 ### Module 5: Booking Lifecycle and Status Management
