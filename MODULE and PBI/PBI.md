@@ -32,7 +32,7 @@ This project is a consultation booking management system. It supports user regis
 - PBI2. Edit Existing Specialist Information
 - PBI3. Maintain Specialist Operational Status
 - PBI4. Check for Duplicate Specialist Information
-- PBI5. Classify Specialists by Expertise Category
+- PBI5. Assign Specialists to Existing Expertise Categories & Admin Backend Search/Filter Specialists
 
 ### Module 3: Specialist Availability Management
 - PBI1. Create Specialist Available Time Slots
@@ -58,7 +58,7 @@ This project is a consultation booking management system. It supports user regis
 ### Module 6: Specialist Consultation
 - PBI1. Weekly Schedule View
 - PBI2. Mark Booking as Completed
-- PBI3. Manage Availability Slots
+- PBI3. Receive Consultation Feedback
 - PBI4. Booking History Review
 - PBI5. Booking Notifications
 
