@@ -12,7 +12,7 @@ This project is a consultation booking management system. It supports user regis
 3. Specialist Availability Management Module  
 4. Booking Request Creation and Validation Module  
 5. Booking Lifecycle and Status Management Module  
-6. Specialist Consultation Module  
+6. Specialist Consultation and Feedback Management Module  
 7. Customer Booking and Tracking Module  
 8. Administration and Reporting Module  
 
