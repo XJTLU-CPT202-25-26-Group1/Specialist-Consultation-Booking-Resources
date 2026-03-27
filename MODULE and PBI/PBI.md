@@ -7,7 +7,7 @@ This project is a consultation booking management system. It supports user regis
 
 ## Identified Project Modules
 
-1. User and Access Management Module  
+1. User Access and Personal Information Management Module 
 2. Specialist Information Management Module  
 3. Specialist Availability Management Module  
 4. Booking Request Creation and Validation Module  
