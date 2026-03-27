@@ -14,7 +14,7 @@ This project is a consultation booking management system. It supports user regis
 5. Booking Workflow and Status Management Module  
 6. Specialist Consultation and Feedback Management Module  
 7. Customer Booking and Tracking Module  
-8. Administration and Reporting Module  
+8. Expertise Category Administration and Master Data Management Module  
 
 ---
 
@@ -73,8 +73,8 @@ This project is a consultation booking management system. It supports user regis
 - PBI1. Create a New Expertise Category
 - PBI2. View the Expertise Category List
 - PBI3. Update an Existing Expertise Category
-- PBI4. Prevent Duplicate Expertise Category
-- PBI5. Activate or Deactivate an Expertise Category
+- PBI4. Activate or Deactivate an Expertise Category
+- PBI5. Prevent Duplicate Expertise Category Names
 
 ---
 
