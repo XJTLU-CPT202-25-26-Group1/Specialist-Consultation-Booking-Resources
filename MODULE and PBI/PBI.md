@@ -14,8 +14,7 @@ This project is a consultation booking management system. It supports user regis
 5. Booking Workflow and Status Management Module  
 6. Specialist Consultation and Feedback Management Module  
 7. Customer Booking and Tracking Module  
-8. Expertise Category Administration and Master Data Management Module  
-
+8. Expertise Category Management Module
 ---
 
 ## Product Backlog Items (PBI)
