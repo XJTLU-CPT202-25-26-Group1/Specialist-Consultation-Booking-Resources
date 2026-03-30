@@ -90,21 +90,21 @@ Tasks will be updated from `[ ]` to `[x]` once completed.
 
 ---
 
-### Phase 1: Requirements Analysis and Planning (Mar 30 – Apr 5)
+### Phase 1: Requirements Analysis and Planning (Mar 24 – Mar 29)
 - [x] Define project scope and workflow
 - [x] Identify system modules
 - [x] Write PBIs
 - [x] Organize requirement documents
-- [ ] Finalize README
-- [ ] Review module boundaries
-- [ ] Confirm business rules
+- [x] Finalize README
+- [x] Review module boundaries
+- [x] Confirm business rules
 
 ---
 
-### Phase 2: Backend Foundation (Apr 6 – Apr 12)
-- [ ] Initialize Spring Boot project
-- [ ] Set up project structure
-- [ ] Configure MySQL database
+### Phase 2: Backend Foundation (Mar 30 – Apr 12)
+- [x] Initialize Spring Boot project
+- [x] Set up project structure
+- [x] Configure MySQL database
 - [ ] Design database schema
 - [ ] Create core entities (User, Specialist, Booking, Slot, Category)
 
