@@ -10,7 +10,7 @@ The system is structured into 8 core modules. Each module focuses on a clear set
 ## System Modules and PBIs
 
 ### 1. User Access and Personal Information Management
-- [Module 1 - User Access and Personal Information Management](docs/requirements/module1-user-access.md)
+[Module 1 - User Access and Personal Information Management](docs/requirements/module1-user-access.md)
 
 This module provides the account foundation for all user roles, including customers, specialists, and administrators. It supports secure registration, login, password recovery, logout, and profile maintenance.
 
