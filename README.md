@@ -1,86 +1,175 @@
-## Specialist Consultation Booking System  
-**CPT202 Software Engineering Group Project | Option B**  
-### 📖 Project Overview  
-- A web-based specialist consultation booking platform that enables customers to browse specialists, check available time slots, and make appointments. The system supports complete booking workflow management and role-based access control.  
-- Supervisor: Soon Phei Tin  
-- Module: CPT202 Software Engineering Group Project  
-  
-## ✨ Core Features  
-### 🔐 User & Access Control  
-- User registration, login, logout  
-- Role-based permission: Administrator / Specialist / Customer  
-- Personal profile management  
-    
-### 👨‍⚕️ Specialist & Availability  
-- Specialist information management (name, expertise, level, fee)  
-- Time slot maintenance  
-- Search & filter by expertise, level, availability  
-   
-### 📅 Booking Workflow  
-- Booking creation with specialist, date, time slot, notes  
-- Conflict detection to avoid double booking  
-- Status flow: Pending → Confirmed → Cancelled / Completed  
-- Booking confirmation, rejection, cancellation, rescheduling  
-- Automatic price calculation  
-    
-### 📊 Views & Administration  
-- Specialist schedule view  
-- Customer booking history & status tracking  
-- Master data & category management  
-- Basic reporting  
-   
-### 📏 Business Rules  
-- One time slot can only be booked by one customer  
-- Only confirmed bookings are valid  
-- Completed bookings cannot be modified by customers  
-- Pricing follows unified rules  
-- Specialists manage their own schedules only  
-   
-### 🛠️ Tech Stack  
-- Frontend: HTML, CSS, JavaScript  
-- Backend: (Fill in your stack)  
-- Database: MySQL    
-- Version Control: Git & GitHub  
-- Testing: Manual test cases, demo scenarios  
-  
-### 📂 Project Structure   
-/  
-├── frontend/        # Front-end pages and logic  
-├── backend/         # Back-end API and services  
-├── database/        # SQL scripts, ERD, initialization  
-├── docs/            # Requirements, design, reports  
-├── test/            # Test cases and evidence  
-└── README.md  
-  
-### 🚀 Workflow  
-- Customer browses specialists and selects slot  
-- Submit booking → system checks conflict  
-- Admin / specialist confirms or rejects  
-- Customer tracks booking status  
-- Specialist marks appointment as completed  
-- System records history for management  
-  
-### 📦 Deliverables  
-- Software Requirements Analysis (Assignment 1)  
-- Group Report & Presentation (Assignment 2)  
-- Final Individual Report (Assignment 3)  
-- Working system + test evidence  
-  
-### 👥 Team Information  
-- Group Number: Group 1  
-- TA: Xinyi Zeng  
-- Team Members:  
-Dong Linhua    
-Huang Tongdan   
-Peng Yuhan   
-Shi Daizong   
-Wang Zihan  
-Wu Yutong  
-Yuan Ziyi   
-Zhang Zhanhao   
-Chen Pinzheng   
-  
-### 📌 Notes   
-- Implement core functions first; advanced features optional   
-- Provide complete test cases and demo evidence     
-- Follow software engineering process: requirements, design, sprint, Git, testing
+# Specialist Consultation Booking System
+
+## 📌 Project Overview
+This project develops a web-based booking system for a consultancy service provider.  
+Customers can browse specialists, check available consultation slots, and create bookings.  
+Administrators manage specialists, availability, bookings, and pricing.
+
+The system supports the full booking workflow:
+**booking → confirmation → cancellation/rescheduling → completion**
+
+---
+
+## 👥 Main User Roles
+- **Administrator / Operations Manager**
+- **Specialist**
+- **Customer**
+
+---
+
+## ⚙️ Core Functional Requirements
+
+### A. User and Access Management
+- User registration, login, and logout
+- Profile maintenance
+
+### B. Specialist and Availability Management
+- Manage specialist records (name, expertise, level, fee, status)
+- Maintain available consultation slots
+- Search and filter specialists by expertise, level, and availability
+
+### C. Booking Workflow
+- Customers create bookings by selecting specialist, date/time slot, and notes
+- Conflict detection (prevent double booking)
+- Booking status management: Pending, Confirmed, Cancelled, Completed
+- Confirmation and rejection of bookings
+- Cancellation and rescheduling (with constraints)
+- Automatic fee calculation
+
+### D. Specialist and Customer Views
+- Specialist schedule view
+- Specialist marks appointments as completed
+- Customer booking history and tracking
+
+### E. Administration
+- Manage expertise categories (master data)
+
+---
+
+## 📚 System Modules
+
+The system is divided into 8 modules:
+
+1. User Access and Personal Information Management  
+2. Specialist Information Management  
+3. Specialist Availability Management  
+4. Booking Request Creation and Validation  
+5. Booking Workflow and Status Management  
+6. Specialist Consultation and Feedback Management  
+7. Customer Booking and Tracking  
+8. Expertise Category Management  
+
+---
+
+## 🔗 Detailed Requirements (PBIs)
+
+Each module is broken down into Product Backlog Items (PBIs), including user stories and acceptance criteria.
+
+- [Module 1 - User Access](docs/requirements/module1-user-access.md)
+- [Module 2 - Specialist Management](docs/requirements/module2-specialist-management.md)
+- [Module 3 - Availability Management](docs/requirements/module3-availability.md)
+- [Module 4 - Booking Request](docs/requirements/module4-booking-request.md)
+- [Module 5 - Booking Workflow](docs/requirements/module5-booking-workflow.md)
+- [Module 6 - Consultation & Feedback](docs/requirements/module6-consultation-feedback.md)
+- [Module 7 - Customer Booking](docs/requirements/module7-customer-booking.md)
+- [Module 8 - Expertise Category](docs/requirements/module8-expertise-category.md)
+
+---
+
+## 🚀 Current Sprint
+**Current Focus (Mar 30 – Apr 5):**
+- Finalize requirements documents
+- Improve README structure
+- Confirm system roles and business rules
+
+---
+
+## 📅 Project Backlog (Mar 30 – May 5)
+
+Tasks will be updated from `[ ]` to `[x]` once completed.
+
+---
+
+### Phase 1: Requirements Analysis and Planning (Mar 30 – Apr 5)
+- [x] Define project scope and workflow
+- [x] Identify system modules
+- [x] Write PBIs
+- [x] Organize requirement documents
+- [ ] Finalize README
+- [ ] Review module boundaries
+- [ ] Confirm business rules
+
+---
+
+### Phase 2: Backend Foundation (Apr 6 – Apr 12)
+- [ ] Initialize Spring Boot project
+- [ ] Set up project structure
+- [ ] Configure MySQL database
+- [ ] Design database schema
+- [ ] Create core entities (User, Specialist, Booking, Slot, Category)
+
+---
+
+### Phase 3: User & Specialist Management (Apr 13 – Apr 19)
+- [ ] Implement user registration/login
+- [ ] Implement profile management
+- [ ] Implement specialist CRUD
+- [ ] Implement category management
+- [ ] Implement search/filter
+
+---
+
+### Phase 4: Booking Core Features (Apr 20 – Apr 26)
+- [ ] Implement availability slots
+- [ ] Implement slot conflict detection
+- [ ] Implement booking creation
+- [ ] Implement validation
+- [ ] Prevent double booking
+
+---
+
+### Phase 5: Booking Workflow & Views (Apr 27 – May 1)
+- [ ] Implement confirmation/rejection
+- [ ] Implement cancellation/rescheduling
+- [ ] Implement booking status transitions
+- [ ] Implement specialist view
+- [ ] Implement customer tracking
+- [ ] Implement fee calculation
+
+---
+
+### Phase 6: Testing & Finalization (May 2 – May 5)
+- [ ] End-to-end testing
+- [ ] Fix bugs
+- [ ] Improve validation
+- [ ] Clean code
+- [ ] Add screenshots/demo
+- [ ] Final submission
+
+---
+
+## 📊 Progress Tracking
+- Current Phase: Phase 1
+- Status: In Progress 🚧
+
+---
+
+## 📌 Business Rules
+- A slot cannot be booked by more than one customer
+- Only confirmed bookings are valid appointments
+- Completed bookings cannot be modified
+- Pricing must follow defined rules consistently
+
+---
+
+## 🛠️ Tech Stack (Planned)
+- Backend: Spring Boot
+- Database: MySQL
+- Frontend: (optional / basic UI)
+- API Testing: Postman
+
+---
+
+## 📖 Development Approach
+This project follows Scrum principles.  
+All functionalities are decomposed into PBIs with clear user stories and acceptance criteria, enabling incremental development and continuous improvement.
