@@ -65,14 +65,14 @@ The system is divided into 8 modules:
 
 Each module is broken down into Product Backlog Items (PBIs), including user stories and acceptance criteria.
 
-- [Module 1 - User Access](MODULE and PBI/docs/module1-user-access.md)
-- [Module 2 - Specialist Management](MODULE and PBI/docs/module2-specialist-management.md)
-- [Module 3 - Availability Management](MODULE and PBI/docs/module3-availability.md)
-- [Module 4 - Booking Request](MODULE and PBI/docs/module4-booking-request.md)
-- [Module 5 - Booking Workflow](MODULE and PBI/docs/module5-booking-workflow.md)
-- [Module 6 - Consultation & Feedback](MODULE and PBI/docs/module6-consultation-feedback.md)
-- [Module 7 - Customer Booking](MODULE and PBI/docs/module7-customer-booking.md)
-- [Module 8 - Expertise Category](MODULE and PBI/docs/module8-expertise-category.md)
+- [Module 1 - User Access](MODULE-and-PBI/docs/module1-user-access.md)
+- [Module 2 - Specialist Management](MODULE-and-PBI/docs/module2-specialist-management.md)
+- [Module 3 - Availability Management](MODULE-and-PBI/docs/module3-availability.md)
+- [Module 4 - Booking Request](MODULE-and-PBI/docs/module4-booking-request.md)
+- [Module 5 - Booking Workflow](MODULE-and-PBI/docs/module5-booking-workflow.md)
+- [Module 6 - Consultation & Feedback](MODULE-and-PBI/docs/module6-consultation-feedback.md)
+- [Module 7 - Customer Booking](MODULE-and-PBI/docs/module7-customer-booking.md)
+- [Module 8 - Expertise Category](MODULE-and-PBI/docs/module8-expertise-category.md)
 
 ---
 
