@@ -65,14 +65,14 @@ The system is divided into 8 modules:
 
 Each module is broken down into Product Backlog Items (PBIs), including user stories and acceptance criteria.
 
-- [Module 1 - User Access](docs/requirements/module1-user-access.md)
-- [Module 2 - Specialist Management](docs/requirements/module2-specialist-management.md)
-- [Module 3 - Availability Management](docs/requirements/module3-availability.md)
-- [Module 4 - Booking Request](docs/requirements/module4-booking-request.md)
-- [Module 5 - Booking Workflow](docs/requirements/module5-booking-workflow.md)
-- [Module 6 - Consultation & Feedback](docs/requirements/module6-consultation-feedback.md)
-- [Module 7 - Customer Booking](docs/requirements/module7-customer-booking.md)
-- [Module 8 - Expertise Category](docs/requirements/module8-expertise-category.md)
+- [Module 1 - User Access](docs/module1-user-access.md)
+- [Module 2 - Specialist Management](docs/module2-specialist-management.md)
+- [Module 3 - Availability Management](docs/module3-availability.md)
+- [Module 4 - Booking Request](docs/module4-booking-request.md)
+- [Module 5 - Booking Workflow](docs/module5-booking-workflow.md)
+- [Module 6 - Consultation & Feedback](docs/module6-consultation-feedback.md)
+- [Module 7 - Customer Booking](docs/module7-customer-booking.md)
+- [Module 8 - Expertise Category](docs/module8-expertise-category.md)
 
 ---
 
