@@ -10,7 +10,7 @@ The system is structured into 8 core modules. Each module focuses on a clear set
 ## System Modules and PBIs
 
 ### 1. User Access and Personal Information Management
-[Module 1 - User Access and Personal Information Management](docs/requirements/module1-user-access.md)
+[Module 1 - User Access and Personal Information Management](docs/module1-user-access.md)
 
 This module provides the account foundation for all user roles, including customers, specialists, and administrators. It supports secure registration, login, password recovery, logout, and profile maintenance.
 
@@ -24,7 +24,7 @@ This module provides the account foundation for all user roles, including custom
 ---
 
 ### 2. Specialist Information Management
-[Module 2 - Specialist Information Management](docs/requirements/module2-specialist-management.md)
+[Module 2 - Specialist Information Management](docs/module2-specialist-management.md)
 
 This module enables administrators or operations managers to maintain specialist records accurately. It ensures that specialist data is complete, valid, searchable, and operationally manageable.
 
@@ -38,7 +38,7 @@ This module enables administrators or operations managers to maintain specialist
 ---
 
 ### 3. Specialist Availability Management
-[Module 3 - Specialist Availability Management](docs/requirements/module3-availability.md)
+[Module 3 - Specialist Availability Management](docs/module3-availability.md)
 
 This module allows specialists to manage their available consultation time slots. It ensures scheduling reliability by preventing overlaps and restricting changes to booked slots.
 
@@ -52,7 +52,7 @@ This module allows specialists to manage their available consultation time slots
 ---
 
 ### 4. Booking Request Creation and Validation
-[Module 4 - Booking Request Creation and Validation](docs/requirements/module4-booking-request.md)
+[Module 4 - Booking Request Creation and Validation](docs/module4-booking-request.md)
 
 This module supports customers in starting a booking request. It covers specialist searching, filtering, slot selection, form completion, validation, and prevention of double booking before a valid request enters the workflow.
 
@@ -66,7 +66,7 @@ This module supports customers in starting a booking request. It covers speciali
 ---
 
 ### 5. Booking Workflow and Status Management
-[Module 5 - Booking Workflow and Status Management](docs/requirements/module5-booking-workflow.md)
+[Module 5 - Booking Workflow and Status Management](docs/module5-booking-workflow.md)
 
 This module manages the end-to-end booking process after a request is created. It controls approval, cancellation, rescheduling, status transitions, record locking, and fee calculation.
 
@@ -80,7 +80,7 @@ This module manages the end-to-end booking process after a request is created. I
 ---
 
 ### 6. Specialist Consultation and Feedback Management
-[Module 6 - Specialist Consultation and Feedback Management](docs/requirements/module6-consultation-feedback.md)
+[Module 6 - Specialist Consultation and Feedback Management](docs/module6-consultation-feedback.md)
 
 This module helps specialists manage consultations after bookings are arranged. It supports schedule visibility, completion updates, feedback handling, booking history review, and notifications.
 
@@ -94,7 +94,7 @@ This module helps specialists manage consultations after bookings are arranged. 
 ---
 
 ### 7. Customer Booking and Tracking
-[Module 7 - Customer Booking and Tracking](docs/requirements/module7-customer-booking.md)
+[Module 7 - Customer Booking and Tracking](docs/module7-customer-booking.md)
 
 This module provides customers with clear visibility of their bookings. It helps them review history, monitor status, check upcoming appointments, view booking details, and search for specific records.
 
@@ -108,7 +108,7 @@ This module provides customers with clear visibility of their bookings. It helps
 ---
 
 ### 8. Expertise Category Management
-[Module 8 - Expertise Category Management](docs/requirements/module8-expertise-category.md)
+[Module 8 - Expertise Category Management](docs/module8-expertise-category.md)
 
 This module supports administrators in maintaining expertise categories used across the system. It ensures category data remains complete, unique, active where needed, and unavailable for selection when inactive.
 
