@@ -204,7 +204,4 @@ Finished at: 2026-05-27T15:16:11+08:00
 | Sprint 2 | Core Functions | Specialist search, availability, booking creation, validation, status workflow | Main implementation period for Module 4 and Module 5 backend logic |
 | Sprint 3 | Integration and Deployment | Cloud deployment, integration testing, bug fixing, final validation | Fixed booking workflow issues and verified 41 passing tests |
 
-## Recommended Figure Caption
-
-Scrum sprint plan showing the project's three increments: infrastructure setup, core booking-function development, and final integration/deployment validation.
 
