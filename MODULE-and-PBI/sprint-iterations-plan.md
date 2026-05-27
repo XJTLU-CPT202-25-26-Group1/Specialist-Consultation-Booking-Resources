@@ -1,4 +1,4 @@
-# Xsbooking Scrum Sprint / Iteration Plan
+# Xsbooking Scrum Sprint Plan
 
 Project: XJTLU Academic Expert Appointment System (Xsbooking)  
 Course: CPT202 Software Engineering Group Project  
