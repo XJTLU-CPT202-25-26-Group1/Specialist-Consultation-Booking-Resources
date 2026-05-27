@@ -105,46 +105,46 @@ Tasks will be updated from `[ ]` to `[x]` once completed.
 - [x] Initialize Spring Boot project
 - [x] Set up project structure
 - [x] Configure MySQL database
-- [ ] Design database schema
-- [ ] Create core entities (User, Specialist, Booking, Slot, Category)
+- [x] Design database schema
+- [x] Create core entities (User, Specialist, Booking, Slot, Category)
 
 ---
 
 ### Phase 3: User & Specialist Management (Apr 13 – Apr 19)
-- [ ] Implement user registration/login
-- [ ] Implement profile management
-- [ ] Implement specialist CRUD
-- [ ] Implement category management
-- [ ] Implement search/filter
+- [x] Implement user registration/login
+- [x] Implement profile management
+- [x] Implement specialist CRUD
+- [x] Implement category management
+- [x] Implement search/filter
 
 ---
 
 ### Phase 4: Booking Core Features (Apr 20 – Apr 26)
-- [ ] Implement availability slots
-- [ ] Implement slot conflict detection
-- [ ] Implement booking creation
-- [ ] Implement validation
-- [ ] Prevent double booking
+- [x] Implement availability slots
+- [x] Implement slot conflict detection
+- [x] Implement booking creation
+- [x] Implement validation
+- [x] Prevent double booking
 
 ---
 
 ### Phase 5: Booking Workflow & Views (Apr 27 – May 1)
-- [ ] Implement confirmation/rejection
-- [ ] Implement cancellation/rescheduling
-- [ ] Implement booking status transitions
-- [ ] Implement specialist view
-- [ ] Implement customer tracking
-- [ ] Implement fee calculation
+- [x] Implement confirmation/rejection
+- [x] Implement cancellation/rescheduling
+- [x] Implement booking status transitions
+- [x] Implement specialist view
+- [x] Implement customer tracking
+- [x] Implement fee calculation
 
 ---
 
 ### Phase 6: Testing & Finalization (May 2 – May 5)
-- [ ] End-to-end testing
-- [ ] Fix bugs
-- [ ] Improve validation
-- [ ] Clean code
-- [ ] Add screenshots/demo
-- [ ] Final submission
+- [x] End-to-end testing
+- [x] Fix bugs
+- [x] Improve validation
+- [x] Clean code
+- [x] Add screenshots/demo
+- [x] Final submission
 
 ---
 
