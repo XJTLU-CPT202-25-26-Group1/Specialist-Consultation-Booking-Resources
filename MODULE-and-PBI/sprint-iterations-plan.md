@@ -7,7 +7,7 @@ Individual focus: Backend booking modules, especially Module 4 and Module 5
 
 ---
 
-## Sprint 1 / Iteration 1: Infrastructure
+## Sprint 1: Infrastructure
 
 Period: Early project stage  
 Increment goal: Build the basic system foundation and create a working MVP for registration and login.
@@ -45,7 +45,7 @@ Increment goal: Build the basic system foundation and create a working MVP for r
 
 ---
 
-## Sprint 2 / Iteration 2: Core Functions
+## Sprint 2: Core Functions
 
 Period: Middle project stage  
 Increment goal: Implement the main business workflow of the appointment booking system.
@@ -132,7 +132,7 @@ Backend work:
 
 ---
 
-## Sprint 3 / Iteration 3: Integration, Deployment, and Final Validation
+## Sprint 3: Integration, Deployment, and Final Validation
 
 Period: Final project stage  
 Increment goal: Integrate modules, fix workflow issues, deploy the system, and prepare for demonstration.
